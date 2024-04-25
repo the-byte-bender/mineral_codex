@@ -1,6 +1,6 @@
 # mineral_codex
 
-[Download the plugin](https://raw.githubusercontent.com/the-byte-bender/mineral_codex/main/mineral_codex.xml)
+[Download the plugin (If your browser opens that file instead of downloading, press ctrl+s on the opened file to save the file on most browsers)](https://raw.githubusercontent.com/the-byte-bender/mineral_codex/main/mineral_codex.xml)
 
 This here is a database for Lapidary and Ore Minerals found in alteraeon. It's got info on what stats they give and how pure the ores are. This plugin will give you the information automaticly as you prospect and uncover the minerals, so you know what you get before mining it and wasting time.
 
